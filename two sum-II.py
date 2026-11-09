@@ -12,5 +12,5 @@ class Solution:
                 right-=1
 
     #here we used concept of Two Pointer of method-I opposite direction.
-     It should be used when array is sorted. These Two Pointer technique is used when
-     array is sorted...    
+     #It should be used when array is sorted. These Two Pointer technique is used when
+     #array is sorted...    
