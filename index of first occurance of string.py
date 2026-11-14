@@ -5,4 +5,4 @@ class Solution:
 #question is haystack = "sadbutsad"
 #            needle = "sad"
 #            Output: 0
-#just use find method in strings
+#just use find method in string concept
