@@ -1,0 +1,12 @@
+Two Sum #O(n)
+here time complexity we used is O(n) because we used hashmap where we can find only one loop and it is a worst case.
+Two Sum II #O(n)
+Valid Palindrome ##O(n)
+Reverse String #O(n)
+Palindrome Number #O(n)
+Remove Duplicates from Sorted Array #O(n)
+Move Zeroes #O(n)
+here for above problems we only used two-pointers technique for which time-complexity is O(n)
+because left and right are colliding to each other at once so O(n) is time complexity.
+Find Index of First Occurrence in String O(n+m)
+here time complexity is O(n+m) because we have taken two strings for one string worst case is O(n) but here i have taken two strings n,m so O(n+m)
