@@ -6,7 +6,7 @@ Hey everyone! I am doing DSA practice daily in LeetCode and GeeksForGeeks.
 Pattern: Two Pointers
 Language: Python
 
-## Problems I completed (11)
+## Problems I completed (13)
 - Valid Palindrome
 - Two Sum
 - Two Sum II
@@ -17,7 +17,8 @@ Language: Python
 - Index of First Occurrence of String
 - Valid Mountain Array
 - Time Complexities
-- And more...
+- Running 1D Array
+- And More
 
 ## How I learn
 1. First I try my own logic
